@@ -1,0 +1,4 @@
+*.der
+*.pem
+*.0
+.chrome-command-line
